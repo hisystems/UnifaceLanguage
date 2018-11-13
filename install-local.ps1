@@ -1,0 +1,1 @@
+copy-item . $home\.vscode\extensions -Recurse -Force
